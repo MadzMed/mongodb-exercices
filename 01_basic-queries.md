@@ -1,6 +1,6 @@
 # Exercices MongoDB avec la Base de Données Pokémon GO
 
-Ces exercices vous permettront de pratiquer les opérations CRUD (Create, Read, Update, Delete) dans MongoDB en utilisant les données des Pokémon de Pokémon GO.
+Ces exercices vous permettront de pratiquer les opérations CRUD (Create, Read, Update, Delete) dans MongoDB en utilisant les données des Pokémon de [Pokémon GO](https://www.kaggle.com/datasets/abcsds/pokemongo/data).
 
 ## Préparation
 
