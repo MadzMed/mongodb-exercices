@@ -4,8 +4,7 @@ Ces exercices avancés vous permettront de manipuler et d'analyser les données 
 
 ## Préparation
 
-1. Assurez-vous que MongoDB est installé sur votre système et que `mongosh` est disponible.
-2. Importez les données du fichier `titanic.csv` dans votre base de données MongoDB avant de commencer les exercices.
+1. Importez les données du fichier `titanic.csv` dans votre base de données MongoDB avant de commencer les exercices.
 
 ## Exercice 1: Importation et Création de la Collection
 
