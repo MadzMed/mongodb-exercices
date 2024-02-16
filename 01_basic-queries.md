@@ -4,8 +4,7 @@ Ces exercices vous permettront de pratiquer les opérations CRUD (Create, Read, 
 
 ## Préparation
 
-1. Assurez-vous que MongoDB est installé sur votre système et que `mongosh` est disponible.
-2. Importez les données du fichier `pokemonGO.csv` dans votre base de données MongoDB avant de commencer les exercices.
+1. Importez les données du fichier `pokemonGO.csv` dans votre base de données MongoDB avant de commencer les exercices.
 
 ## Exercice 1: Création d'une Base de Données et d'une Collection
 
