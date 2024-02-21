@@ -37,7 +37,7 @@ Analysez les statistiques d'attaque et de défense, en les regroupant par type d
 
 ### Instructions
 
-- Calculez la moyenne des statistiques d'attaque et de défense pour chaque type de Pokémon.
+- Calculez la moyenne des statistiques d'attaque et de défense pour chaque Pokémon.
 - Comparez les statistiques moyennes d'attaque et de défense de chaque Pokémon groupé par type.
 
 Cet exercice met en lumière la puissance des opérations CRUD, des fonctions d'agrégation et des requêtes sur documents imbriqués dans MongoDB. Il offre une occasion d'appliquer ces concepts à un ensemble de données ludique et engageant.
