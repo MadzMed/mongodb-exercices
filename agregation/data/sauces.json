@@ -1,0 +1,12 @@
+[
+    { "nom": "Mayonnaise", "prix": 0.20 },
+    { "nom": "Ketchup", "prix": 0.15 },
+    { "nom": "Moutarde", "prix": 0.10 },
+    { "nom": "Barbecue", "prix": 0.25 },
+    { "nom": "Aioli", "prix": 0.30 },
+    { "nom": "Sauce piquante", "prix": 0.35 },
+    { "nom": "Sauce blanche", "prix": 0.20 },
+    { "nom": "Sauce César", "prix": 0.30 },
+    { "nom": "Sauce Algérienne", "prix": 0.25 },
+    { "nom": "Sauce Tartare", "prix": 0.30 }
+]

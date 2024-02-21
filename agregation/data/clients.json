@@ -1,0 +1,50 @@
+[
+    {
+      "_id": 1,
+      "nom": "Client A",
+      "email": "clienta@email.com",
+      "pays": "France",
+      "commandes": [
+        { "idCommande": "C001", "montant": 150, "produits": ["Produit 1", "Produit 2"] },
+        { "idCommande": "C002", "montant": 90, "produits": ["Produit 3"] }
+      ]
+    },
+    {
+      "_id": 2,
+      "nom": "Client B",
+      "email": "clientb@email.com",
+      "pays": "France",
+      "commandes": [
+        { "idCommande": "C003", "montant": 200, "produits": ["Produit 4", "Produit 5"] }
+      ]
+    },
+    {
+      "_id": 3,
+      "nom": "Client C",
+      "email": "clientc@email.com",
+      "pays": "France",
+      "commandes": [
+        { "idCommande": "C004", "montant": 450, "produits": ["Produit 6", "Produit 7", "Produit 8"] }
+      ]
+    },
+    {
+      "_id": 4,
+      "nom": "Client D",
+      "email": "clientd@email.com",
+      "pays": "Espagne",
+      "commandes": [
+        { "idCommande": "C005", "montant": 120, "produits": ["Produit 1"] },
+        { "idCommande": "C006", "montant": 350, "produits": ["Produit 9", "Produit 10"] }
+      ]
+    },
+    {
+      "_id": 5,
+      "nom": "Client E",
+      "email": "cliente@email.com",
+      "pays": "Italie",
+      "commandes": [
+        { "idCommande": "C007", "montant": 620, "produits": ["Produit 11", "Produit 12"] }
+      ]
+    }
+  ]
+  

@@ -1,0 +1,12 @@
+[
+    { "nom": "Poulet", "prix": 2.50 },
+    { "nom": "Tomate", "prix": 0.30 },
+    { "nom": "Oignons", "prix": 0.20 },
+    { "nom": "Cornichons", "prix": 0.50 },
+    { "nom": "Viande", "prix": 3.00 },
+    { "nom": "Salade", "prix": 0.40 },
+    { "nom": "Fromage", "prix": 0.60 },
+    { "nom": "Bacon", "prix": 1.00 },
+    { "nom": "Avocat", "prix": 1.50 },
+    { "nom": "Œuf", "prix": 0.70 }
+]

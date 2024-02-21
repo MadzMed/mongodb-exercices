@@ -1,0 +1,64 @@
+[
+    {
+      "idCommande": "C001",
+      "idClient": 1,
+      "montant": 150,
+      "produits": [
+        { "nom": "Produit 1", "quantite": 1, "prix": 50 },
+        { "nom": "Produit 2", "quantite": 2, "prix": 50 }
+      ]
+    },
+    {
+      "idCommande": "C002",
+      "idClient": 1,
+      "montant": 90,
+      "produits": [
+        { "nom": "Produit 3", "quantite": 1, "prix": 90 }
+      ]
+    },
+    {
+      "idCommande": "C003",
+      "idClient": 2,
+      "montant": 200,
+      "produits": [
+        { "nom": "Produit 4", "quantite": 1, "prix": 100 },
+        { "nom": "Produit 5", "quantite": 1, "prix": 100 }
+      ]
+    },
+    {
+      "idCommande": "C004",
+      "idClient": 3,
+      "montant": 450,
+      "produits": [
+        { "nom": "Produit 6", "quantite": 1, "prix": 150 },
+        { "nom": "Produit 7", "quantite": 2, "prix": 150 }
+      ]
+    },
+    {
+      "idCommande": "C005",
+      "idClient": 4,
+      "montant": 120,
+      "produits": [
+        { "nom": "Produit 1", "quantite": 2, "prix": 60 }
+      ]
+    },
+    {
+      "idCommande": "C006",
+      "idClient": 4,
+      "montant": 350,
+      "produits": [
+        { "nom": "Produit 9", "quantite": 1, "prix": 200 },
+        { "nom": "Produit 10", "quantite": 1, "prix": 150 }
+      ]
+    },
+    {
+      "idCommande": "C007",
+      "idClient": 5,
+      "montant": 620,
+      "produits": [
+        { "nom": "Produit 11", "quantite": 1, "prix": 310 },
+        { "nom": "Produit 12", "quantite": 1, "prix": 310 }
+      ]
+    }
+  ]
+  
