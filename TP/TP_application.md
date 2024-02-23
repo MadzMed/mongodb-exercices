@@ -19,7 +19,7 @@ L'objectif de cet exercice est de développer une application pour un système d
    - Le créateur peut supprimer un sondage.
 
 4. **Mise à jour de Sondage :**
-   - L'API doit permettre la mise à jour des informations du sondage et des questions.
+   - L'application doit permettre la mise à jour des informations du sondage et des questions.
 
 5. **Répondre aux Sondages :**
    - Les utilisateurs peuvent répondre aux questions des sondages.
