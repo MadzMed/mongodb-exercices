@@ -72,19 +72,19 @@ L'objectif de cet exercice est de développer une application pour un système d
 }
 ```
 
-## Consignes pour l'Exercice
+## Consignes pour l'Exercice
 
-### Modélisation des Données :
+### Modélisation des Données :
 
 - Définissez la structure des documents pour les collections sondages et reponses.
 - Assurez-vous que les sondages peuvent être facilement mis à jour et que les réponses peuvent être associées de manière unique à la fois au sondage et à l'utilisateur.
 
-### Développement de l'Application:
+### Développement de l'Application:
 
 - Le framework est libre, vous utiliserez le langage de programmation de votre choix ainsi que le framework qui vous convient le plus
 - Une documentation vous est demandée sur le projet.
 
-### Stockage et Récupération des Données :
+### Stockage et Récupération des Données :
 
 - Utilisez MongoDB pour stocker les sondages et les réponses.
 Assurez-vous de gérer correctement les identifiants uniques et les références entre les collections.
