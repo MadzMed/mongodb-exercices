@@ -31,7 +31,7 @@ you should see the MongoDB container running.
 1. Connect to the MongoDB container to your atlas Cluster using the following command:
 
 ```bash
-docker exec -it <container_id> mongo "mongodb+srv://cluster0.7zv8v.mongodb.net/<dbname>" --username <username> --password <password>
+docker exec -it <container_id> mongosh "mongodb+srv://cluster0.7zv8v.mongodb.net/<dbname>" --username <username> --password <password>
 ```
 
 You should now be connected to the MongoDB shell.
